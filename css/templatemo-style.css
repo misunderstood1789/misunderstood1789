@@ -383,9 +383,8 @@ a:hover, a:active, a:focus {
    About section              
 -----------------------------------------*/
 
-#about .jtb {
+#about .about-img {
     background: url('/images/jtb.jpg') no-repeat;
-
 }
 
 #about .about-thumb,
