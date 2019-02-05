@@ -384,7 +384,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .jtb {
-    background: url('../images/jtb.jpg') no-repeat;
+    background: url('/images/jtb.jpg') no-repeat;
 
 }
 
